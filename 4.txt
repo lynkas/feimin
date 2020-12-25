@@ -1,0 +1,3 @@
+go to 1, pass through 1, length is 1
+go to 3, pass through 3, length is 3
+go to 2, pass through 1, length is 3
